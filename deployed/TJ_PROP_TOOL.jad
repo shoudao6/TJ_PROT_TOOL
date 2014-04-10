@@ -1,0 +1,9 @@
+MIDlet-1: MMMIDlet,,MMMIDlet
+MIDlet-Jar-Size: 107386
+MIDlet-Jar-URL: TJ_PROT_TOOL.jar
+MIDlet-Name: TJ_PROT_TOOL Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+userId: 18868811592

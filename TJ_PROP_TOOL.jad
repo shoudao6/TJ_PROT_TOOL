@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+userId: 18868811592
+MIDlet-Jar-URL: TJ_PROT_TOOL.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: MMMIDlet,,MMMIDlet
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: TJ_PROT_TOOL Midlet Suite

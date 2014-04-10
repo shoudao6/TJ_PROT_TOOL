@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Nov 25 15:56:28 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TJ_PROP_TOOL.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|KEmulator.jar>;<jar|midpapi21.jar>;<jar|cldcapi11.jar>;<jar|wma20.jar>;<jar|mmapi.jar>;<jar|j2me-ws.jar>;<jar|j2me-xmlrpc.jar>;<jar|jsr75.jar>;<jar|jsr082.jar>;<jar|jsr184.jar>;<jar|jsr179.jar>;<jar|satsa-apdu.jar>;<jar|satsa-jcrmi.jar>;<jar|satsa-pki.jar>;<jar|satsa-crypto.jar>;<jar|jsr211.jar>;<jar|jsr238.jar>;<jar|jsr229.jar>;<jar|jsr180.jar>;<jar|jsr234.jar>;<jar|jsr226.jar>;<jar|jsr239.jar>
+includes=
